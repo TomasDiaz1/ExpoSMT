@@ -127,10 +127,6 @@ body{
 	background-image: url(../images/thewise.png);
 	
 }
-.cn-slide nav a[href="https://denham-vivanco.itch.io/elemental-aire"]{
-	background-image: url(../images/elemental.webp);
-	
-}
 
 /* Items and sub-items of slide 1*/
 .cn-slide nav a[href="#slide-1-1"],
